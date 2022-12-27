@@ -1,0 +1,67 @@
+body{
+    position: relative;
+    background-color:rgba(255,255,0,0.2);
+    background-image: url("image/background.jfif");
+    background-image:no-repeat;
+     
+
+}
+header{
+    background-color: black;
+    color:white;
+    align-content: center;
+}
+a{
+    text-decoration: none;
+}
+header img{
+    border-radius: 20px;
+    float:left;
+    height: 35px;
+    width: 35px;
+    margin-right: 10px;
+}
+nav button{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(121, 74, 5);
+     
+}
+/* nav:visited{
+    display: none;
+    
+} */
+nav button:hover{
+    background-color: gold;
+    
+}
+.middle{
+    clear:left;
+    position:static;
+    display: grid;
+    grid-template-columns: 100px 600px;
+    justify-content: space-around;
+    border: solid;
+    height: 600px;
+    -ms-grid-column-align: center;
+    
+}
+div img{
+    float:left;
+    width: 250px;
+    height: 60%;
+    
+}
+.slogan{
+    clear: left;
+    position: sticky;
+}
+.message{
+    border:black solid;
+    margin-left:100px;
+    display: grid;
+    grid-template-columns: repeat(3,20%);
+    justify-content: space-between;
+}
