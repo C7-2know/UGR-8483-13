@@ -20,11 +20,11 @@ function Navigation_bar(){
 function ShowTranscript(){
     var button=document.getElementById("button");
     var paragraph=document.getElementById('paragraph--4');
-    if(paragraph.className=='paragraph--4'){
+    if(paragraph.className=='main__paragraph--4'){
         paragraph.className='paragraph--4-visible'
         button.innerHTML='click to hide'
     }else{
-        paragraph.className='paragraph--4'
+        paragraph.className='main__paragraph--4'
         button.innerHTML='click for transcript'
     }
 }
