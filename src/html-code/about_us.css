@@ -148,8 +148,9 @@ a{
 
     }
     .main__founder--goal{
-        margin:0%;
+        margin-left:0%;
     }
+    
     
     .header__nav :first-child{
         margin-right: 10%;
