@@ -51,6 +51,7 @@ font-size: xx-large;
 .header__button--current{
     background-color: black;
     color:aliceblue;
+    width: 100%;
 }
 .header__link--current{
     color:aliceblue;
