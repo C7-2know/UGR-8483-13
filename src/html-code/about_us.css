@@ -53,7 +53,6 @@
     grid-template-columns: 60% 40%;
     column-gap: 5%;
     padding: 0% 10%;
-    /* padding:0% 10% 15% 10%;  */
     background-image: url('../image/background8.jpeg');
     background-size:cover;  
 }
@@ -141,6 +140,7 @@ a{
     #menu{
         display: block;
        padding-top: 50%;
+        padding-right:3%;
     }
     .contact{
         display: flex;
