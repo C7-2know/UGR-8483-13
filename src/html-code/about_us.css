@@ -147,8 +147,8 @@ a{
         flex-wrap: wrap;
 
     }
-    .main__mission, .main__goal{
-        padding:0%;
+    .main__founder--goal{
+        margin:0%;
     }
     
     .header__nav :first-child{
