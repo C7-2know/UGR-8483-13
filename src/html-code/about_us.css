@@ -147,6 +147,10 @@ a{
         flex-wrap: wrap;
 
     }
+    .main__mission, main__goal{
+        padding:0%;
+    }
+    
     .header__nav :first-child{
         margin-right: 10%;
     }
