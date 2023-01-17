@@ -192,7 +192,7 @@ font-size: xx-large;
  .header__img--menu{
     display:block
  } 
- .main__whatDo ul
+ .main__whatDo--list
  {
     margin-right: 0%;
  }  
