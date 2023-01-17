@@ -72,7 +72,7 @@
     background-color: rgb(8, 1, 27);
     color: bisque;
 }
-.address{
+.footer__address{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
