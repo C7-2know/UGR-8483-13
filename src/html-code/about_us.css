@@ -147,7 +147,7 @@ a{
         flex-wrap: wrap;
 
     }
-    .main__mission, main__goal{
+    .main__mission, .main__goal{
         padding:0%;
     }
     
